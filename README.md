@@ -1,16 +1,8 @@
 # real_time_json_widget
 
-A new Flutter project.
+An flutter real time json to widget.
 
-## Getting Started
+## Showcase
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![ezgif-2-bf97d4d55e](https://user-images.githubusercontent.com/70462767/214990226-6de3749a-6eaa-4625-aa9f-078f677ea993.gif)
+![Captura de tela 2023-01-26 222809](https://user-images.githubusercontent.com/70462767/214990255-93ec4f2b-15f3-49cd-a8d8-ec3d151dcdfe.png)
